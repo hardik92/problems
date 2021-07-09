@@ -1,4 +1,5 @@
-/* https://leetcode.com/problems/verifying-an-alien-dictionary/ */
+//  953. Verifying an Alien Dictionary
+//  https://leetcode.com/problems/verifying-an-alien-dictionary/
 
 class Solution {
     public static boolean isAlienSorted(String[] words, String order) {
